@@ -123,3 +123,55 @@ Overall results are seen as:
 ![211157963-1d364800-c8ed-42f5-8548-579b248b8cbf](https://user-images.githubusercontent.com/122383472/212166946-1ed05264-b9e7-42cf-a651-59c39ed4ba6b.png)
 
 ------
+
+
+## Conclusion:
+
+The problem was solved and the 50 epochs were compiled to finish the training. The trainable parameters were 7015519 parameters, 0 gradients, 15.8 GFLOPs. There were 157 layers in the model and model summary can be seen as: Model summary: 157 layers, 7015519 parameters, 0 gradients, 15.8 GFLOPs
+
+
+             Class      Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 25/25 [00:11
+             
+             
+               all        198        420      0.637      0.617      0.676      0.397
+               
+               
+            helmet        198        207      0.563      0.773      0.712      0.452
+            
+            
+         no-helmet        198        213      0.711      0.462       0.64      0.343
+         
+         
+         
+         
+## References and Tutorials:
+
+<https://www.youtube.com/watch?v=VsZvT69Ssbs&t=159s>
+
+<https://www.mathworks.com/discovery/object-detection.html>
+
+<https://www.geeksforgeeks.org/add-a-salt-and-pepper-noise-to-an-image-with-python/>
+
+<https://www.kaggle.com/code/eneszvo/yolov5-helmet-detection-train-and-inference>
+
+<https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/>
+
+<https://github.com/WongKinYiu/yolov7>
+
+<https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d>
+
+<https://www.forecr.io/blogs/ai-algorithms/how-to-train-a-yolov5-object-detection-model-in-google-colab>
+
+<https://blog.paperspace.com/train-yolov5-custom-data/>
+
+<https://colab.research.google.com/github/wandb/examples/blob/master/colabs/yolo/Train_YOLOv5_model_on_a_Custom_Dataset_with_Weights_%26_Biases.ipynb#scrollTo=6Rv2ysKDRDM8>
+
+<https://docs.ultralytics.com/>
+
+<https://www.youtube.com/watch?v=5h5UtLau3Vc>
+
+<https://www.youtube.com/watch?v=tgacIcMvqLQ&list=PLcP8bHQl_w-HkHuUBsSUnMr0LXypzov_g>
+
+<https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html#:~:text=Machine%20Learning%20Engineer-,Object%20detection%20is%20the%20task%20of%20detecting%20where%20in%20an,security%20cameras%2C%20and%20autonomous%20vehicles>
+
+For any queries please contact:
