@@ -39,6 +39,13 @@ Yolo is the most widely used machine learning algorithm for the detection and pr
 ## Architecture of the implemented technique can be seen as:
 
 
+![alt text](https://github.com/matapan3070/matapan3070.github.io/blob/main/doc/assets/210938172-11ecd036-b0e1-4516-b488-f8acc11ea384.png "Architecture of the implemented technique")
+
+### Results:
+
+The results of the given system for a video can be seen as below:
+
+
 
 
 ##Emphasis
