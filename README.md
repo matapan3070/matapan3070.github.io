@@ -79,3 +79,47 @@ The results of the given system for an image with flip augmentation can be seen 
 
 ------
 
+The confusion matrix of the algorithm can be seen as: 
+
+![211157903-1e650141-adb5-4afb-a4ed-e9acf8b0dfa0](https://user-images.githubusercontent.com/122383472/212166194-421c3446-c4f5-40f6-a21a-b45a41397f9f.jpg)
+
+
+------
+
+The F1 curve can be seen as: 
+
+
+![211157924-13cc486e-e3d6-4a74-b19c-9f3f29ab497c](https://user-images.githubusercontent.com/122383472/212166333-5312e02e-306b-47eb-b2af-81b417767987.jpg)
+
+------
+
+The P curve can be seen as:
+
+![211157948-752b76e6-5aa3-42ff-a307-d6e3283f2abd](https://user-images.githubusercontent.com/122383472/212166438-9412e1cf-aad8-4757-bea9-1e76bdc2cf29.jpg)
+
+------
+
+The PR curve can be seen as:
+
+![211157954-c37ac29c-ccb3-437d-bc75-31cc913e3edb](https://user-images.githubusercontent.com/122383472/212166578-071c256a-8bc7-4c17-8a51-3ad1f22c7f3a.jpg)
+
+
+------
+
+The R curve can be seen as:
+
+![211157958-3103b829-8bd3-469e-95fd-5e3561b79ed4](https://user-images.githubusercontent.com/122383472/212166752-34a7b16b-a0a6-44b4-8255-700bf537767f.jpg)
+
+------
+
+The Labels can be seen as:
+
+![211157973-06285b30-be37-4fbe-96f1-325527d88bff (1)](https://user-images.githubusercontent.com/122383472/212166822-046b40cf-a288-4433-8787-a62133468209.jpg)
+
+------
+
+Overall results are seen as:
+
+![211157963-1d364800-c8ed-42f5-8548-579b248b8cbf](https://user-images.githubusercontent.com/122383472/212166946-1ed05264-b9e7-42cf-a651-59c39ed4ba6b.png)
+
+------
