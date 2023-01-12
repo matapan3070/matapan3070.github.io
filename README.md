@@ -1,20 +1,32 @@
-##Headings
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Helmet Detection
 
-Alternatively, for H1 and H2, an underline-ish style:
+## Introduction to Object Detection:
 
-Alt-H1
-======
+Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos. Object detection algorithms typically leverage machine learning or deep learning to produce meaningful results. The goal of object detection is to detect and classify objects within an image, and to locate the position of the objects within the image.
+
+Object detection is important for a variety of reasons. For example, detecting the bikers who are wearing helmets or not wearing. Some potential benefits of helmet detection include:
+
+1.Improved safety: By detecting whether or not a person is wearing a helmet, safety systems can alert the user or take corrective action if necessary. This could be particularly useful in industries with a high risk of head injuries, such as construction or cycling.
+
+2.Enhanced compliance: In industries or situations where helmet use is required by law or regulation, helmet detection can be used to ensure compliance.
+
+3.Increased efficiency: In some cases, helmet detection can be used to automate tasks or processes that require the presence or absence of a helmet. For example, a helmet detection system could be used to control access to a construction site or to trigger the start of a manufacturing process.
+
+------
+
+## Object Detection Using Deep Learning:
+We can use a variety of techniques to perform object detection. Popular deep learning–based approaches using convolutional neural networks (CNNs), such as R-CNN and YOLO, automatically learn to detect objects within images. One of the most famous families of Deep Convolutional Neural Networks (DNN) for object detection is the YOLO (You Only Look Once).
+
+------
 
 Alt-H2
 
 ------
+
+
+![Image]([(https://user-images.githubusercontent.com/116068857/211398429-5834ac83-b39a-4647-8686-ea73609644e2.png)
+
 
 ##Emphasis
 
