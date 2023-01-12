@@ -182,7 +182,4 @@ The problem was solved and the 50 epochs were compiled to finish the training. T
 
 
 For any queries please contact:
-
-         <swathi.kamalapuram@th-bingen.de>
-         <faisal.imam@th-bingen.de>
-         <mathew.siby@th-bingen.de>
+<swathi.kamalapuram@th-bingen.de> , <faisal.imam@th-bingen.de> , <mathew.siby@th-bingen.de>
