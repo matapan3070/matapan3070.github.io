@@ -181,3 +181,6 @@ The problem was solved and the 50 epochs were compiled to finish the training. T
 <https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html#:~:text=Machine%20Learning%20Engineer-,Object%20detection%20is%20the%20task%20of%20detecting%20where%20in%20an,security%20cameras%2C%20and%20autonomous%20vehicles>
 
 
+For any queries please contact:
+
+         <Swathi.kamalapuram@th-bingen.de> , <faisal.imam@th-bingen.de> , <mathew.siby@th-bingen.de>
