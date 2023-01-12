@@ -49,15 +49,20 @@ The results of the given system for a video can be seen as below:
 
 https://user-images.githubusercontent.com/122383472/212149363-e678d5b8-ba85-4277-a3ca-aa8a6990ac15.mp4
 
+------
+
 
 The results of the given system for an image can be seen as below:
 
 ![211234266-5a7878ed-0014-4c24-ac46-810b662386f1](https://user-images.githubusercontent.com/122383472/212150245-7ecc8796-11d1-41fc-9f0f-aaf8972ab339.jpg)
 
+------
+
 The results of the given system for an image when noise(salt and pepper) augmentation used can be seen as below: 
 
 ![211239414-6728bedc-4ab8-402e-bd04-df765fbf6f95](https://user-images.githubusercontent.com/122383472/212150446-81dec81e-9f35-41bd-9fb3-fced5db3bf73.jpg)
 
+------
 
 
 The results of the given system for an image with flip augmentation can be seen as below:
@@ -66,4 +71,7 @@ The results of the given system for an image with flip augmentation can be seen 
 
 
 ![211235144-2e1edc48-ab67-48a8-8c46-d244b8d512fd](https://user-images.githubusercontent.com/122383472/212150773-818c9276-8d81-46a6-bc65-408e1f10a1fa.jpg)
+
+
+------
 
