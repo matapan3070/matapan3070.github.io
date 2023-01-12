@@ -18,14 +18,12 @@ Object detection is important for a variety of reasons. For example, detecting t
 ## Object Detection Using Deep Learning:
 We can use a variety of techniques to perform object detection. Popular deep learning–based approaches using convolutional neural networks (CNNs), such as R-CNN and YOLO, automatically learn to detect objects within images. One of the most famous families of Deep Convolutional Neural Networks (DNN) for object detection is the YOLO (You Only Look Once).
 
-------
-
-Alt-H2
+![alt text](https://github.com/matapan3070/matapan3070.github.io/blob/main/doc/assets/211398429-5834ac83-b39a-4647-8686-ea73609644e2.png "Logo Title Text 1")
 
 ------
 
 
-![Image]([(https://user-images.githubusercontent.com/116068857/211398429-5834ac83-b39a-4647-8686-ea73609644e2.png)
+### Problem:
 
 
 ##Emphasis
