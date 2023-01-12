@@ -20,19 +20,11 @@ We can use a variety of techniques to perform object detection. Popular deep lea
 
 ![211398429-5834ac83-b39a-4647-8686-ea73609644e2](https://user-images.githubusercontent.com/122383472/212159595-233a59a0-f06f-4a7a-b22b-3a025e5283ab.jpg)
 
-## YOLOv5(You Only Look Once):
 
-YOLOv5 is an open-source project that consists of a family of object detection models and detection methods based on the YOLO model pre-trained on the COCO dataset. It is maintained by Ultralytics and represents the organization's open-source research into the future of Computer Vision works.
-
-## ANNOTATION (LabelImg):
-
-To train our object detector, we need to supervise its learning with bounding box annotations. We draw a box around each object that we want the detector to see and label each box with the object class that we would like the detector to predict.
-LabelImg is a free, open-source tool for graphically labeling images. It’s written in Python and uses QT for its graphical interface. It’s an easy, free way to label a few hundred images to try out your next object detection project.
-
-### Noise: 
+### Augmentation
+Noise: 
 Noise means random disturbance in a signal in a computer version. In our case, the signal is an image. Random disturbance in the brightness and color of an image is called Image noise.
-
-### Salt-and-pepper:
+Salt-and-pepper:
 It is found only in grayscale images (black and white images). As the name suggests salt (white) in pepper (black)–white spots in the dark regions or pepper (black) in salt (white)–black spots in the white regions. In other words, an image having salt-and-pepper noise will have a few dark pixels in bright regions and a few bright pixels in dark regions. Salt-and-pepper noise is also called impulse noise. It can be caused by several reasons like dead pixels, analog-to-digital conversion error, bit transmission error, etc.
 
 ------
